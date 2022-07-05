@@ -14,7 +14,7 @@ The repsoitory contains updated version of the code that can be compiled in Micr
 - Open CMake GUI
 - Set the source code path to project directory
 - Set the build path to build directory previously made in the in the project directory
-- Configure (Make sure to set the generator to Visual Studio 2019 and platform for generator to Win32
+- Configure (Make sure to set the generator to Visual Studio 2019 and platform for generator to Win32)
 - Generate
 - Open the Project (.sln file in build directory) using Visual Studio
 - Build the project
