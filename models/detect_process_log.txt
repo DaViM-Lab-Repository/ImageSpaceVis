@@ -1,0 +1,2 @@
+loading object!
+finish initializing the object!
